@@ -184,12 +184,6 @@ ARG="3 1 2 5 4" ; ./push_swap $ARG | ./checker $ARG
 
 ## 👤 Author
 
-| Name | GitHub |
-|------|--------|
-| Your Name | [@maxalwis](https://github.com/maxalwis) |
-
----
-
-## 📝 License
-
-This project is part of the 42 School curriculum and is for educational purposes only.
+| GitHub |
+|--------|
+| [@maxalwis](https://github.com/maxalwis) |
